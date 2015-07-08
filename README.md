@@ -1,6 +1,8 @@
 # zoopedia
 Animal explorer using react, react-router, Skeleton Less, react-component-gallery
 
+Demo: [http://lusa.github.io/zoopedia/](http://lusa.github.io/zoopedia/)
+
 ![blah](http://i.imgur.com/P7Z9IB5.png)
 
 ## Install 
