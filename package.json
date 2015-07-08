@@ -1,0 +1,16 @@
+{
+  "name": "zoopedia",
+  "version": "0.0.1",
+  "description": "Explore animals through DBpedia queries and React views",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-less": "~0.12.0",
+    "grunt-browserify": "^3.6.0",
+    "grunt-react": "^0.12.0",
+    "react": "0.13.3",
+    "react-router": "0.13.3",
+    "skeleton-less": "2.0.1",
+    "react-component-gallery": "1.2.1"
+  }
+}
