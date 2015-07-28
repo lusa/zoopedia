@@ -4,6 +4,7 @@ var getAnimalQuery = function(params){
     var query = "\
     PREFIX dbpedia2: <http://dbpedia.org/property/>\
     PREFIX foaf: <http://xmlns.com/foaf/0.1/>\
+    PREFIX dbpedia: <http://dbpedia.org/resource/>\
     PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>\
     SELECT ?animal ?animal_name ?description ?photo\
     WHERE {\
